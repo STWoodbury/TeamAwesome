@@ -10,7 +10,7 @@ This study focuses on historical statistics and impacts of hurricaine season in 
   <li>Is there a correlation of the frequency, severity, and type of storm to average ocean temperatures?</li>
   <li>What is the human impact of these storms across time as characterized by landfall percentage and financial cost?</li>
   <li>What predictions, if any, can be made from examining the aforementioned historical trends? </li>
-<</ol>
+</ol>
 
 ## Study Staff
 This study was conducted by the following class members:
