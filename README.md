@@ -17,7 +17,6 @@ This study was conducted by the following class members:
     <ul>
         <li>Kira Hernandez</li>
         <li>Matthew Yackee</li>
-        <li>Jennifer Drake-Oliver</li>
         <li>Shawn Woodbury</li>
     </ul>
 
