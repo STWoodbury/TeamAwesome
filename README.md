@@ -9,7 +9,6 @@ This study focuses on historical statistics and impacts of hurricaine season in 
   <li>What are the historical trends of the frequency, severity, and types of storms?</li>
   <li>Is there a correlation of the frequency, severity, and type of storm to average ocean temperatures?</li>
   <li>What is the human impact of these storms across time as characterized by landfall percentage and financial cost?</li>
-  <li>What predictions, if any, can be made from examining the aforementioned historical trends? </li>
 </ol>
 
 ## Study Staff
@@ -83,34 +82,6 @@ This section aims to examine the relationship of historical storm trends to over
 <ul>
     <li>stacked bar chart of landfall vs. non-landfall storms</li>
     <li>line graph of financial impact over time</li>
-</ul>
-
-<b>Possible Data Sources</b>
-
-<ul>
-    <li>[NOAA API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)</li>
-    <li>[National Weather Service API](https://www.weather.gov/documentation/services-web-api)</li>
-    <li>[National Hurricaine Center](https://www.nhc.noaa.gov/data/)</li>
-</ul>
-
-## Section 4: Future Storm Projection
-
-Given the examinations above, this section attempts to make future projections based on historical trends 
-
-<b>Primary Questions</b>
- <ol>
-    <li>What do these trends tell us about the future of oceanic temperature?</li>
-    <li>What do these trends tell us about the future of storm frequency?</li>
-    <li>What do these trends tell us about the future of storm intensity/severity?</li>
-    <li>What do these trends tell us about the future of human impact from storms?</li>
-</ol>
-
-<b>Possible Visualizations</b> 
-<ul>
-    <li>line graph of projected future oceanic temperatures</li>
-    <li>scatter plot of projected future oceanic temperatures vs. number of storms</li>
-    <li>stacked bar plot of projected ratios of storm intensity/severity</li>
-    <li>line graph of projected financial impact of storms</li>
 </ul>
 
 <b>Possible Data Sources</b>
