@@ -50,6 +50,8 @@ Storm data from the NOAA Hurdat2 Database were filtered to capture each individu
 
 When charting each storm over the 30 year period, the number of storms per season was found to follow a normal data distribution with a mean of 16.23 storms per season, a median of 16.0 and a standard deviation of 5.5 storms. There were two outlier seasons identified in the analysis: 2005 and 2020, with 31 reported storms in each year. 
 
+50-60% of all storms were below the hurricane rating. categories 1 and 4 clustered seemed to be the most prominent. 5 was the rarest category 
+
 <b>Data Sources</b>
 
 <ul>
@@ -138,6 +140,8 @@ Fema data from OpenFEMA was examined for the number of disaster declarations per
 </ul>
 
 <b>Conclusions:</b>
+
+When examining landfalls, it was observed that the landfall vs. non landfall propotions remained stable over time. On average 40-50% of storms made landfall year over year, illustrating that the change in global temperatures over time has minimal effect on the ratio of storms making landfall on any given season. 
 
 The FEMA disaster declarations data was found to have an annual mean of 13.28 per year, median of 10 per year and a standard deviation of 12.65. There was one outlier year in 2005 *(this can be accounted for by this year's unusual number of storms as outlied in previous sections)*. Of the 31 years documented in the data, 8 of the 11 above average years (72.7%) can be found in the last 15 years of the data, indicating an increase in the overall annual disaster declarations over time. 
 
