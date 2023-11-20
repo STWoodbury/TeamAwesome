@@ -89,7 +89,7 @@ While it is outside the scope of this study to assert causality, and the data wo
 
 <ul>
     <li><a href='https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2022-050423.txt'>National Hurricane Center Hurdat2 Database</a></li>
-    <li><a href='https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/globe/land_ocean'> NOAA Global Time Series Database</a></li>
+    <li><a href='https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/globe'> NOAA Global Time Series Database</a></li>
     <li><a href="https://global-warming.org/">GlobalWarming.org</a></li>
 </ul>
 
