@@ -166,7 +166,7 @@ Overall, the data summarizes that there are some trends observable in the charac
 
 <ol>
   <li>The frequency of hurricanes in the atlantic has almost doubled in the last 15 years when compared to the previous 15 years.</li>
-  <li>The intensity and occurrance of landfall of storms remains constant over time as a percentage of overall storms observed.</li>
+  <li>The intensity and occurrence of landfall of storms remains constant over time as a percentage of overall storms observed.</li>
   <li>Ocean and land temperature averages show little to no correlation to the frequency or severity of hurricanes</li>
   <li>Atmospheric CO2 concentrations show substantial correlations to hurricane frequency and some correlation to hurricane severity</li>
   <li>The number of disaster declarations as a result of hurricanes has risen over time with a substantial spike in the last 15 years (as compared to the previous 15 years)</li>
