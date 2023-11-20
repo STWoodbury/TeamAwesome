@@ -70,7 +70,7 @@ The annual hurricane data isolated in section 1 was joined with climatological d
     <li><a href='Visualizations/AnomaliesVsStormSeverity.png'>Ocean Temperature/Category Regression</a></li>
     <li><a href='Visualizations/LandAnomaliesVsStormFrequency.png'>Land Temperature/Frequency Regression</a></li>
     <li><a href='Visualizations/LandAnomaliesVsStormintensity.png'>Land Temperature/Category Regression</a></li>
-    <li><a href='Visualizations/CO2VsStormFrequency.png'>CO2 Concentration/Frequency Regression</a></li>
+    <li><a href='Visualizations/CO2vsStormFrequency.png'>CO2 Concentration/Frequency Regression</a></li>
     <li><a href='Visualizations/CO2VsStormintensity.png'>CO2 Concentration/Category Regression</a></li>
 </ul>
 
