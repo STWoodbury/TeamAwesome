@@ -48,9 +48,18 @@ Storm data from the NOAA Hurdat2 Database were filtered to capture each individu
 
 <b>Conclusions:</b>
 
-When charting each storm over the 30 year period, the number of storms per season was found to follow a normal data distribution with a mean of 16.23 storms per season, a median of 16.0 and a standard deviation of 5.5 storms. There were two outlier seasons identified in the analysis: 2005 and 2020, with 31 reported storms in each year.  
+When charting each storm over the 30 year period, the number of storms per season was found to follow a normal data distribution with a mean of 16.23 storms per season, a median of 16.0 and a standard deviation of 5.5 storms. There were two outlier seasons identified in the analysis: 2005 and 2020, with 31 reported storms in each year. The above average years are slightly differently distributed between the first and second half of the dataset with 33.3% of all above average years in the first half of the dataset and 66.7% of all above average years reported in the second half. This would indicate an increase in number of storms year to year across time with a delta of 100% for the second half of the dataset. 
 
-When examining category breakdowns across all seasons, the breakdown of category ratings as Overall 55.03% cat 0, 17.04% Cat1, 9.03% Cat 4, 8.01% Cat 2, 7.60% Cat 3, 3.29% Cat 5
+When examining category breakdowns across all seasons, the average number of each category can be broken down in the following bins: 
+<ul>
+<li>Category 0 (non-hurricane): 55.03%</li> 
+<li>Category 1: 17.04%</li>   
+<li>Category 2: 8.01%</li> 
+<li>Category 3: 7.60%</li> 
+<li>Category 4: 9.03%</li> 
+<li>Category 5: 3.29%</li> 
+</ul>
+These category breakdowns are consistent across the dataset with a +/- of 2.3% per category, indicating that there is no difference in the category breakdown of hurricanes by category year to year. 
 
 <b>Data Sources</b>
 
@@ -141,7 +150,7 @@ Fema data from OpenFEMA was examined for the number of disaster declarations per
 
 <b>Conclusions:</b>
 
-When examining landfalls, it was observed that the landfall vs. non landfall propotions remained stable over time. On average 40-50% of storms made landfall year over year, illustrating that the change in global temperatures over time has minimal effect on the ratio of storms making landfall on any given season. 
+When examining landfalls, it was observed that the landfall vs. non landfall propotions remained stable over time. On average 44% of storms made landfall year over year, with a standard deviation of 15.7% year over year with a standard error of 2.87%. 
 
 The FEMA disaster declarations data was found to have an annual mean of 13.28 per year, median of 10 per year and a standard deviation of 12.65. There was one outlier year in 2005 *(this can be accounted for by this year's unusual number of storms as outlied in previous sections)*. Of the 31 years documented in the data, 8 of the 11 above average years (72.7%) can be found in the last 15 years of the data, indicating an increase in the overall annual disaster declarations over time. 
 
@@ -153,4 +162,14 @@ The FEMA disaster declarations data was found to have an annual mean of 13.28 pe
 </ul>
 
 ## Section 4: Conclusions
+Overall, the data summarizes that there are some trends observable in the character of hurricane season over time: 
 
+<ol>
+  <li>The frequency of hurricanes in the atlantic has almost doubled in the last 15 years when compared to the previous 15 years.</li>
+  <li>The intensity and occurrance of landfall of storms remains constant over time as a percentage of overall storms observed.</li>
+  <li>Ocean and land temperature averages show little to no correlation to the frequency or severity of hurricanes</li>
+  <li>Atmospheric CO2 concentrations show substantial correlations to hurricane frequency and some correlation to hurricane severity</li>
+  <li>The number of disaster declarations as a result of hurricanes has risen over time with a substantial spike in the last 15 years (as compared to the previous 15 years)</li>
+</ol>
+
+While none of these conclusions are prescriptive, it is important to note that the trends of hurricanes over the last thirty years are worthy of further investigation, and further study of the effect of climatological preconditions could lead to a more causal relationship than could be expressed in this study. 
