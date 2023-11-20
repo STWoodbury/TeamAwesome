@@ -74,7 +74,7 @@ The annual hurricane data isolated in section 1 was joined with climatological d
 
 <b>Relevant Notebooks:</b>
 <ul>
-    <li><a href='ScatterPlotsAndRegressions'>Scatter Plots and Regressions</a></li>
+    <li><a href='ScatterPlotsAndRegressions.ipynb'>Scatter Plots and Regressions</a></li>
 </ul>
 
 <b>Visualizations</b> 
