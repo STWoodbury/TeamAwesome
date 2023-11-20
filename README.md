@@ -32,14 +32,22 @@ This section aims to examine the historical trends of atlantic storms as a prere
 
 Storm data from the NOAA Hurdat2 Database were filtered to capture each individual storm reported by the agency. This data was then aggregated to acertain the occurring year, number of landfalls, maximum recorded windspeed, and maximum category rating for each storm. The storms were then grouped by year of occurrance, and a summary table and box plot for analysis of distribution was conducted. Finally, a line chart and stacked box plot were created to visualize the change over time of the frequency and category ratings for each year studied. 
 
+<b>Relevant Notebooks:</b>
+<ul>
+    <li><a href='HurricaneDataFiltering.ipynb'>Hurricane Data Filtering</a></li>
+    <li><a href='ScatterPlotsAndRegressions'>Storms per Year Distribution</a></li>
+    <li><a href='PerfectStorm.ipynb'></a>Storm Frequency and Categorization</li>
+</ul>
+
 <b>Visualizations:</b> 
 <ul>
-    <li><a href='Visualizations/Stormsperyearbox.png'>storms per year distribution</a></li>
-    <li><a href='Visualizations/stormfreq.png'>storms per season</a></li>
-    <li><a href='Visualizations/stormcat.png'>category ratings per season</a></li>
+    <li><a href='Visualizations/Stormsperyearbox.png'>Storms per Year Distribution</a></li>
+    <li><a href='Visualizations/stormfreq.png'>Storms per Season</a></li>
+    <li><a href='Visualizations/stormcat.png'>Category Ratings per Season</a></li>
 </ul>
 
 <b>Conclusions:</b>
+
 When charting each storm over the 30 year period, the number of storms per season was found to follow a normal data distribution with a mean of 16.23 storms per season, a median of 16.0 and a standard deviation of 5.5 storms. There were two outlier seasons identified in the analysis: 2005 and 2020, with 31 reported storms in each year. 
 
 <b>Data Sources</b>
@@ -64,6 +72,11 @@ This section aims to examine correlation between various climatological conditio
 
 The annual hurricane data isolated in section 1 was joined with climatological data from NOAA and the globalwarming.org API (which the NPO cited as sourced from NASA satellite data). These data were compared against annual storm frequency and annual average storm maximum category and were analyzed for correlation using a linear regression for each of the following climatological conditions: Annual Ocean Temperature Average (Anomaly above/below century average), Annual Land Temperature Average (Anomaly above/below century average), and atmospheric CO2 concentration (absolute PPM). Each of these correlations and regressions were plotted in the visualizations below. A correlation coefficient (r2) was then calculated to establish significance.
 
+<b>Relevant Notebooks:</b>
+<ul>
+    <li><a href='ScatterPlotsAndRegressions'>Scatter Plots and Regressions</a></li>
+</ul>
+
 <b>Visualizations</b> 
 <ul>
     <li><a href='Visualizations/AnomaliesVsStormFrequency.png'>Ocean Temperature/Frequency Regression</a></li>
@@ -75,6 +88,7 @@ The annual hurricane data isolated in section 1 was joined with climatological d
 </ul>
 
 <b>Conclusions:</b>
+
 When examining various climatological characteristics, it can be seen that they have varying correlations to hurricane characteristics year over year. 
 
 Oceanic temperature was found to be only minorly correlated if at all to either hurricane frequency or severity. With a 7% correlation to frequency and a .49% correlation to average category rating, Annual Oceanic temperature can not be said to be a good correlative measure to hurricane characteristics
@@ -110,6 +124,12 @@ The isolated hurricane data from section 1 was examined for landfall events. Eac
 Fema data from OpenFEMA was examined for the number of disaster declarations per year. This data was then filtered to characterize only hurricane related data. A summary table and box plot were created to find overall trends and to identify outliers. This data was then grouped by year and plotted in a line graph for visualization against the average.
 *It is important to note that this data was for the entirity of the United States over the 31 year period 1991-2022, and as such is not a direct correlary to the remainder of the data. Additionally, as disaster declarations are handled on the state and/or municipal level, there may be multiple disaster declarations associated with a single storm. This does, however echo the remainder of the data as far as distribution, and as such can be considered an effective comparison for the purposes of this study.)*
 
+<b>Relevant Notebooks:</b>
+<ul>
+    <li><a href='FEMA Analysis.ipynb'>FEMA Disaster Declarations</a></li>
+    <li><a href='PerfectStorm.ipynb'></a>Landfall vs. Non-Landfall Storms/li>
+</ul>
+
 <b>Visualizations</b> 
 <ul>
     <li><a href='Visualizations/disasterdeclarations.png'>Fema disaster declarations distribution</a></li>
@@ -118,6 +138,7 @@ Fema data from OpenFEMA was examined for the number of disaster declarations per
 </ul>
 
 <b>Conclusions:</b>
+
 The FEMA disaster declarations data was found to have an annual mean of 13.28 per year, median of 10 per year and a standard deviation of 12.65. There was one outlier year in 2005 *(this can be accounted for by this year's unusual number of storms as outlied in previous sections)*. Of the 31 years documented in the data, 8 of the 11 above average years (72.7%) can be found in the last 15 years of the data, indicating an increase in the overall annual disaster declarations over time. 
 
 <b>Data Sources</b>
