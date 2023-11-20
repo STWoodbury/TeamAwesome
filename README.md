@@ -34,7 +34,7 @@ Storm data from the NOAA Hurdat2 Database were filtered to capture each individu
 
 <b>Visualizations:</b> 
 <ul>
-    <li><a href='Visualizations/stormsperyearboxplot.png'>storms per year distribution</a></li>
+    <li><a href='Visualizations/stormsperyearbox.png'>storms per year distribution</a></li>
     <li><a href='Visualizations/stormfreq.png'>storms per season</a></li>
     <li><a href='Visualizations/stormcat.png'>category ratings per season</a></li>
 </ul>
