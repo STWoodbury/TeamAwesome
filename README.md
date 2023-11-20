@@ -112,6 +112,7 @@ Fema data from OpenFEMA was examined for the number of disaster declarations per
 
 <b>Visualizations</b> 
 <ul>
+    <li><a href='Visualizations/disasterdeclarations.png'>Fema disaster declarations distribution</a></li>
     <li><a href='Visualizations/landstorm.png'>landfall vs. non-landfall storms</a></li>
     <li><a href='Visualizations/FemaDisasterDeclarationsvsAverage.png'>FEMA disaster declarations</a></li>
 </ul>
