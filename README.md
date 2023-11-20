@@ -35,8 +35,8 @@ Storm data from the NOAA Hurdat2 Database were filtered to capture each individu
 <b>Relevant Notebooks:</b>
 <ul>
     <li><a href='HurricaneDataFiltering.ipynb'>Hurricane Data Filtering</a></li>
-    <li><a href='ScatterPlotsAndRegressions'>Storms per Year Distribution</a></li>
-    <li><a href='PerfectStorm.ipynb'></a>Storm Frequency and Categorization</a></li>
+    <li><a href='ScatterPlotsAndRegressions.ipynb'>Storms per Year Distribution</a></li>
+    <li><a href='PerfectStorm.ipynb'>Storm Frequency and Categorization</a></li>
 </ul>
 
 <b>Visualizations:</b> 
