@@ -20,7 +20,7 @@ This study was conducted by the following members:
 
 ## Section 1: Historical Trends
 
-This section aims to examine the historical trends of atlantic storms as a prerequisite to the following analyses. The study will analyze 30 years of data to examine the number of storms, and the storms' categorization averages to establish change over time. 
+This section aims to examine the historical trends of atlantic storms as a prerequisite to the following analyses. The study will analyze 30 years of data to examine the number of storms, and the storms' categorization averages to establish change over time. This period was selected to reflect NOAA's recommendation to maximize data accuracy. The documentation reflected that dates before 1991 may have incomplete data collection and/or questionable accuracy. 
 
 <b>Primary Questions</b>
  <ol>
@@ -48,9 +48,9 @@ Storm data from the NOAA Hurdat2 Database were filtered to capture each individu
 
 <b>Conclusions:</b>
 
-When charting each storm over the 30 year period, the number of storms per season was found to follow a normal data distribution with a mean of 16.23 storms per season, a median of 16.0 and a standard deviation of 5.5 storms. There were two outlier seasons identified in the analysis: 2005 and 2020, with 31 reported storms in each year. 
+When charting each storm over the 30 year period, the number of storms per season was found to follow a normal data distribution with a mean of 16.23 storms per season, a median of 16.0 and a standard deviation of 5.5 storms. There were two outlier seasons identified in the analysis: 2005 and 2020, with 31 reported storms in each year.  
 
-50-60% of all storms were below the hurricane rating. categories 1 and 4 clustered seemed to be the most prominent. 5 was the rarest category 
+When examining category breakdowns across all seasons, the breakdown of category ratings as Overall 55.03% cat 0, 17.04% Cat1, 9.03% Cat 4, 8.01% Cat 2, 7.60% Cat 3, 3.29% Cat 5
 
 <b>Data Sources</b>
 
