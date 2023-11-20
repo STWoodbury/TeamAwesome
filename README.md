@@ -127,7 +127,7 @@ Fema data from OpenFEMA was examined for the number of disaster declarations per
 <b>Relevant Notebooks:</b>
 <ul>
     <li><a href='FEMA Analysis.ipynb'>FEMA Disaster Declarations</a></li>
-    <li><a href='PerfectStorm.ipynb'></a>Landfall vs. Non-Landfall Storms/li>
+    <li><a href='PerfectStorm.ipynb'>Landfall vs. Non-Landfall Storms</a></li>
 </ul>
 
 <b>Visualizations</b> 
