@@ -20,7 +20,7 @@ This study was conducted by the following members:
 
 ## Section 1: Historical Trends
 
-This section aims to examine the historical trends of storms as a prerequisite to the following analyses. The study will analyze 30 years of data to examine the number of storms, and the storms' categorization averages to establish change over time. 
+This section aims to examine the historical trends of atlantic storms as a prerequisite to the following analyses. The study will analyze 30 years of data to examine the number of storms, and the storms' categorization averages to establish change over time. 
 
 <b>Primary Questions</b>
  <ol>
